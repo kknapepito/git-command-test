@@ -1,2 +1,2 @@
 # git-command-test
-some update
+some update from gg-001
